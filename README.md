@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanshah1567&label=Profile%20views&color=0e75b6&style=flat" alt="aryanshah1567" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-six-phi-90.vercel.app/](https://portfolio-six-phi-90.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-2-eight-kappa.vercel.app/](https://portfolio-2-eight-kappa.vercel.app/)
 
 - 📫 How to reach me **aryanashah11@gmail.com**
 
